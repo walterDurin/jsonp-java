@@ -1,3 +1,5 @@
+#summary user-guide
+
 =summary=
 
 The filter wraps any response content into a js string (except json type responses, they will be left as they were), and send it back to client as a jsonp callback. 
